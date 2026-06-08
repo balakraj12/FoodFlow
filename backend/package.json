@@ -1,0 +1,18 @@
+{
+  "name": "foodflow-backend",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@google/genai": "^2.4.0",
+    "dotenv": "^17.2.3",
+    "express": "^4.21.2",
+    "mongodb": "^7.2.0",
+    "mongoose": "^9.6.3",
+    "socket.io": "^4.8.3"
+  }
+}

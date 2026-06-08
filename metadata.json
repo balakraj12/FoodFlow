@@ -1,0 +1,6 @@
+{
+  "name": "FoodFlow",
+  "description": "A high-performance full-stack food delivery web application similar to Domino's, featuring real-time order tracking, comprehensive product customization, coupon system, and integrated payment emulation.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
